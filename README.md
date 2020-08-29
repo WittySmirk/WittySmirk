@@ -29,4 +29,4 @@
 
 ---
 
-<img align="left" alt="wittysmirks github stats" src="https://github-readme-stats.vercel.app/api?username=WittySmirkr&show_icons=true&hide_border=true&theme=onedark" />
+<img align="left" alt="wittysmirks github stats" src="https://github-readme-stats.vercel.app/api?username=WittySmirk&show_icons=true&hide_border=true&theme=onedark" />
