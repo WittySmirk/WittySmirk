@@ -14,7 +14,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Java" width="26px" src="https://banner2.cleanpng.com/20180517/zve/kisspng-java-programmer-computer-programming-logo-5afe2f1dcf9897.0745314915266076458503.jpg" />
+<img align="left" alt="Java" width="26px" src="https://www.pngkey.com/png/full/264-2646582_logo-transparent-background-java.png" />
 <img align="left" alt="Python" width="26px" src="https://www.python.org/static/opengraph-icon-200x200.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
