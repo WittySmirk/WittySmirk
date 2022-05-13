@@ -12,8 +12,8 @@
 <img align="left" alt="Nuxt" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/1200px-Nuxt_logo.svg.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="TypeScript" width="26px" src="https://iconape.com/wp-content/png_logo_vector/typescript.png" />
-<img align="left" alt="Solidity" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Solidity_logo.svg/1200px-Solidity_logo.svg.png" />
-<img align="left" alt="Go" width="26px" src="https://user-images.githubusercontent.com/43429182/157799625-cf9d1dc2-2936-492b-9f5d-93b9cc2ce6a9.png" />
+<img align="left" alt="Solidity" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" />
+<img align="left" alt="Go" width="26px" src="https://juststickers.in/wp-content/uploads/2016/07/go-programming-language.png" />
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
 <img align="left" alt="Python" width="26px" src="https://www.python.org/static/opengraph-icon-200x200.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
