@@ -8,16 +8,16 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Vue" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" />
-<img align="left" alt="Nuxt" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/1200px-Nuxt_logo.svg.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://iconape.com/wp-content/png_logo_vector/typescript.png" />
-<img align="left" alt="Solidity" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" />
-<img align="left" alt="Go" width="26px" src="https://juststickers.in/wp-content/uploads/2016/07/go-programming-language.png" />
-<img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" />
-<img align="left" alt="Python" width="26px" src="https://www.python.org/static/opengraph-icon-200x200.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<a href="https://vuejs.org/" target="_blank"><img align="left" alt="Vue" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" /></a>
+<a href="https://v3.nuxtjs.org/" target="_blank"><img align="left" alt="Nuxt" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/1200px-Nuxt_logo.svg.png" /></a>
+<a href="https://nodejs.org/en/" target="_blank"><img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TypeScript" width="26px" src="https://iconape.com/wp-content/png_logo_vector/typescript.png" /></a>
+<a href="https://soliditylang.org/" target="_blank"><img align="left" alt="Solidity" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" /></a>
+<a href="https://go.dev/" target="_blank"><img align="left" alt="Go" width="26px" src="https://juststickers.in/wp-content/uploads/2016/07/go-programming-language.png" /></a>
+<a href="https://www.cplusplus.com/" target="_blank"><img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" /></a>
+<a href="https://www.python.org/" target="_blank"><img align="left" alt="Python" width="26px" src="https://www.python.org/static/opengraph-icon-200x200.png" /></a>
+<a hreg="https://git-scm.com/" target="_blank"><img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /></a>
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" /></a>
 
 <br />
 <br />
