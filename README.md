@@ -2,14 +2,14 @@
 
 ## I'm a Student, Developer, and Athlete!
 
-- 🔎 I'm currently working on a ERC-20 token ⬨
-- 📚 I’m learning Solidity and Nuxt3 △
+- 🔎 I'm currently working on ? ⬨
+- 📚 I’m learning Solidity and Next.js △
 - 🥅 Goals: Contribute to more projects
 
 ### Languages and Tools:
 
-<a href="https://vuejs.org/" target="_blank"><img align="left" alt="Vue" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" /></a>
-<a href="https://v3.nuxtjs.org/" target="_blank"><img align="left" alt="Nuxt" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Nuxt_logo.svg/1200px-Nuxt_logo.svg.png" /></a>
+<a href="https://reactjs.org/" target="_blank"><img align="left" alt="React" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" /></a>
+<a href="https://nextjs.org/" target="_blank"><img align="left" alt="Next" width="26px" src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" /></a>
 <a href="https://nodejs.org/en/" target="_blank"><img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" /></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img align="left" alt="TypeScript" width="26px" src="https://iconape.com/wp-content/png_logo_vector/typescript.png" /></a>
 <a href="https://soliditylang.org/" target="_blank"><img align="left" alt="Solidity" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_solidity_icon_130156.png" /></a>
