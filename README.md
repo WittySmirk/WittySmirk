@@ -2,9 +2,9 @@
 
 ## I'm a Student, Developer, and Athlete!
 
-- 🔎 I'm currently working on ? ⬨
-- 📚 I’m learning Solidity and Next.js △
-- 🥅 Goals: Contribute to more projects
+- 🔎 I'm currently working on rewriting mario in rust ⬨
+- 📚 I’m learning Rust and Solid Start 🦀
+- 🥅 Goals: Get better at algo
 
 ### Languages and Tools:
 
